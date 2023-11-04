@@ -1,1 +1,5 @@
-console.log("Hello to github!")
+function sayHello(){
+return 'Hello'
+}
+
+console.log(sayHello())
